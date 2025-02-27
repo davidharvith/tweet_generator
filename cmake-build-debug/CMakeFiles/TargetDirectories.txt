@@ -1,3 +1,0 @@
-C:/Users/david/CLionProjects/c_course/ex3_a/cmake-build-debug/CMakeFiles/ex3.dir
-C:/Users/david/CLionProjects/c_course/ex3_a/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/david/CLionProjects/c_course/ex3_a/cmake-build-debug/CMakeFiles/rebuild_cache.dir
