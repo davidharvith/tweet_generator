@@ -1,0 +1,3 @@
+/home/david/projects/tweet_generator/build/CMakeFiles/ex3.dir
+/home/david/projects/tweet_generator/build/CMakeFiles/edit_cache.dir
+/home/david/projects/tweet_generator/build/CMakeFiles/rebuild_cache.dir

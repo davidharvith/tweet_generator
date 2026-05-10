@@ -3,12 +3,10 @@ project(ex3 C)
 
 set(CMAKE_C_STANDARD 99)
 
-include_directories(.)
+include_directories(include)
 
 add_executable(ex3
-        linked_list.c
-        linked_list.h
-        markov_chain.h
-        markov_chain.c
-        tweets_generator.c
+        src/linked_list.c
+        src/markov_chain.c
+        src/tweets_generator.c
 )

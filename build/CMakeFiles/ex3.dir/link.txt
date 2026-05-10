@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/ex3.dir/src/linked_list.c.o CMakeFiles/ex3.dir/src/markov_chain.c.o CMakeFiles/ex3.dir/src/tweets_generator.c.o -o ex3 
